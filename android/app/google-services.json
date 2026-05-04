@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64160679064",
+    "project_id": "vibeflix-73f9e",
+    "storage_bucket": "vibeflix-73f9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64160679064:android:7e4fded74ac1ddbc6bbced",
+        "android_client_info": {
+          "package_name": "com.vibeflix.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64160679064-0jmu4qv4sh0sfcu6mbfcjddnneb3ahgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7B-YQkWkxF4tQ1MRyFmdy8Ad69TguL6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64160679064-0jmu4qv4sh0sfcu6mbfcjddnneb3ahgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
